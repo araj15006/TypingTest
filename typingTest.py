@@ -19,7 +19,7 @@ def getting_topics():
 # main function
 def main():
     topic_result = getting_topics()
-    input("press enter to start")d
+    input("press enter to start")
     print("Type here\n")       
     time_start = time()
     userInput = str(input())
